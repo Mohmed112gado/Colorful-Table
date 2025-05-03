@@ -1,0 +1,19 @@
+{
+    "template": "#include <bits/stdc++.h>\nusing namespace std;\n#define int long long\n#define fast ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);\n\nint32_t main() {\n    fast;\n    \n    return 0;\n}",
+    "compile_command": "g++ -std=c++17 -Wall -Wextra -O2 -o $file_name $full_file_path && ./$file_name",
+    "key_bindings": {
+        "Run Code": "Ctrl+R",
+        "Compile Only": "Ctrl+Shift+B"
+    },
+    "font_settings": {
+        "font_family": "Fira Code",
+        "font_size": 14
+    },
+    "appearance": {
+        "theme": "Dark"
+    },
+    "file_path": {
+        "default_directory": "C:/CP_Files/"
+    },
+    "language": "C++"
+}
